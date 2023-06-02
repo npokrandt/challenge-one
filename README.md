@@ -1,12 +1,18 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Horiseon Homepage
 
-## Challenges in This Course
+## Description
 
-There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
+This is a website about seo principles
 
-### Challenge Types 
+## Screenshot
 
-The two types of Challenges are the following:
+![screenshot of the webpage](./assets/images/Screenshot-2023-06-01-at-11-10-29-Horiseon-Homepage.png)
+
+## Link
+
+Check out the website here: https://npokrandt.github.io/horiseon-accessibity-update/
+
+<!-- The two types of Challenges are the following:
 
 * **On-the-job ticket** or **feature request Challenges** give you starter code in a folder called `Develop`, which you'll modify to complete the Challenge. Odd-numbered modules follow this format.
 
@@ -155,5 +161,5 @@ You are required to submit the following for review:
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
 
 ---
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved. -->
 
